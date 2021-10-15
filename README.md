@@ -1,1 +1,3 @@
-# Intent-bilgilendirme
+İntent Nasıl Açılır?
+
+Şimdi presence intent dediğimiz intent kullanıcıların durum intentidir yani siz botunuzda durum rol gibi bir sistem varsa presence intent özelliğinin aktif olması lazımdır yani siz presenceUpdate eventini kullanmanız için bu intenti açmanız lazım gelelim ikinci özel intente server members intent bu intent kullanıcıların giriş çıkışlarını bildiren intenttir yani guildMemberAdd ve guildMemberRemove eventlerini kullanmamıza yarayan intenttir başka bir sikime yaradığıda yoktur not bunu okuyan herşeyi private intentlere bağlayan salaklar umarım akıllanmıştır azıcıkta olsa ve ufak bir bilgilendirme yapmak istiyorum bu intentleri doğrulanmış botlarınızda kafanıza göre kullanamazsınız
